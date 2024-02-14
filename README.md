@@ -1,6 +1,6 @@
 # Python-Machine-Learning-Codes
 ## 1) Overview:
-In this we will go over beginner friendly codes that utilize tools such as numpy, pandas, matplotlib, scikit-learn,tensorflow in the form of exercises and beginner friendly projects
+In this we will go over tutorials and projects that utilize tools such as numpy, pandas, matplotlib, scikit-learn, and tensorflow 
 
 ## 2) Python Exercies
 This section cover exercises/tutorials on popular machine learning/python libraries like NumPy, Pandas, Matplotlib, Scikit-learn
