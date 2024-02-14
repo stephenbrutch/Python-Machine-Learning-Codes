@@ -3,6 +3,7 @@
 In this we will go over beginner friendly codes that utilize tools such as numpy, pandas, matplotlib, scikit-learn,tensorflow in the form of exercises and beginner friendly projects
 
 ## 2) Python Exercies
+This section cover exercises/tutorials on popular machine learning/python libraries like NumPy, Pandas, Matplotlib, Scikit-learn
 ## 2.1) NumPy exercies:
 click [here](https://github.com/stephenbrutch/Python-Machine-Learning-Codes/blob/main/introduction-to-numpy.ipynb) to go to .ipynb file
 
