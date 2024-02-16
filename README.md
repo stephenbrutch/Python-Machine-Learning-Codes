@@ -1,4 +1,4 @@
-# Python-Machine-Learning-Tutorial-Codes
+# Python-Machine-Learning-Codes
 ## 1) Overview:
 In this we will go over tutorials and projects that utilize tools such as numpy, pandas, matplotlib, scikit-learn, and tensorflow 
 
