@@ -28,4 +28,4 @@ Click [here](https://github.com/stephenbrutch/Python-Machine-Learning-Tutorial-C
 ## 3) PyTorch
 
 ### 3.1) PyTorch Basics
-
+Click [here](https://gist.github.com/stephenbrutch/f7c36af654c4a324a6aa1a4330e6c83b) to go to github gist
