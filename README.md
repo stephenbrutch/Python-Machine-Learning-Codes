@@ -24,3 +24,8 @@ Click [here](https://github.com/stephenbrutch/Python-Machine-Learning-Tutorial-C
 
 ### 2.3) TensorFlow Classification
 Click [here](https://github.com/stephenbrutch/Python-Machine-Learning-Tutorial-Codes/blob/main/02_neural_network_classification_with_tensorflow.ipynb) to go to .ipynb file
+
+## 3) PyTorch
+
+### 3.1) PyTorch Basics
+
