@@ -32,3 +32,6 @@ Click [here](https://gist.github.com/stephenbrutch/f7c36af654c4a324a6aa1a4330e6c
 
 ### 3.2) PyTorch Classificication
 Click [here](https://gist.github.com/stephenbrutch/616482ee973680a49e50998010c6aced) to go to github gist
+
+### 3.3) PyTorch Computer Vision
+Click [here](https://gist.github.com/stephenbrutch/aac2df312371c97578d9c2247505c460) to go to githubgist
