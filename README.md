@@ -35,3 +35,6 @@ Click [here](https://gist.github.com/stephenbrutch/616482ee973680a49e50998010c6a
 
 ### 3.3) PyTorch Computer Vision
 Click [here](https://gist.github.com/stephenbrutch/aac2df312371c97578d9c2247505c460) to go to githubgist
+
+### 3.4) PyTorch Custom Datasets
+CLick [here](https://gist.github.com/stephenbrutch/dc763bd198f081f59345d0c8e60815a7) to go to githubgist
